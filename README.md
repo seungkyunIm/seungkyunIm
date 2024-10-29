@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Seungkyun
-Main Page
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=Hi%20개발자&animation=&fontColor=000000&fontSize=90" />
     </div>
