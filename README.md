@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=안녕하세요%20개발자가 되고싶은 신입&animation=&fontColor=000000&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&text=안녕하세요%20개발자가%20되고싶은%20신입%20개발자&animation=&fontColor=000000&fontSize=90" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 신규 개발자 0년차의 도전기 </h2>  
