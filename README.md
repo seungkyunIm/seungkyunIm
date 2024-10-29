@@ -39,43 +39,43 @@ Here are some ideas to get you started:
     <div align= "center">
       <img height=200 align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungkyunIm&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
     </div>
-    <div class="row g-5">
-        <div class="col-md-6" id="user">
-            <h2 class="text-body-emphasis">개인 정보</h2>
-            <p class="fs-5 col-md-8 width-100">이름: <span id="name">임승균</span>(<b id="age">35</b>)</p>
-            <p class="fs-5 col-md-8 width-100">소개: <span id="desc">새로운 도전을 지향하며 창의적으로 생각하는 개발자</span></p>
-        <a href="https://github.com/seungkyunIm" target="_blank" id="github" class="a-margin">GitHub</a></div>
-        <div class="col-md-6">
-            <h2 class="text-body-emphasis">프로젝트 및 기타 활동</h2>
-            <ol id="project"><li>
-                <h6>Five Stones // Springboot와 Thymeleaf를 이용한 게시판 프로젝트</h6>
-                <p>-백엔드(Springboot + MariaDB)</p>
-            </li><li>
-                <h6>Plantler // Springboot와 React.js를 이용한 식집사용 게시판 프로젝트</h6>
-                <p>-프론트(React) &amp; 백엔드(Springboot)</p>
-            </li></ol>
-        </div>
-        <div class="col-md-12">
-            <h2 class="text-body-emphasis">기술 스택 및 자격증</h2>
-            <ul class="list-unstyled ps-0" id="skill"><li>JAVA<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 65%">65%</div>
-            </div></li><li>SQL<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 60%">60%</div>
-            </div></li><li>HTML<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 75%">75%</div>
-            </div></li><li>CSS<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 80%">80%</div>
-            </div></li><li>JAVASCRIPT<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 60%">60%</div>
-            </div></li><li>REACT<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 75%">75%</div>
-            </div></li><li>SPRINGBOOT<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 65%">65%</div>
-            </div></li><li>MYBATIS<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 70%">70%</div>
-            </div></li><li>Docker<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
-                <div class="progress-bar" style="width: 40%">40%</div>
-            </div></li></ul>
-        </div>
+</div>
+<div class="row g-5">
+    <div class="col-md-6" id="user">
+        <h2 class="text-body-emphasis">개인 정보</h2>
+        <p class="fs-5 col-md-8 width-100">이름: <span id="name">임승균</span>(<b id="age">35</b>)</p>
+        <p class="fs-5 col-md-8 width-100">소개: <span id="desc">새로운 도전을 지향하며 창의적으로 생각하는 개발자</span></p>
+    <a href="https://github.com/seungkyunIm" target="_blank" id="github" class="a-margin">GitHub</a></div>
+    <div class="col-md-6">
+        <h2 class="text-body-emphasis">프로젝트 및 기타 활동</h2>
+        <ol id="project"><li>
+            <h6>Five Stones // Springboot와 Thymeleaf를 이용한 게시판 프로젝트</h6>
+            <p>-백엔드(Springboot + MariaDB)</p>
+        </li><li>
+            <h6>Plantler // Springboot와 React.js를 이용한 식집사용 게시판 프로젝트</h6>
+            <p>-프론트(React) &amp; 백엔드(Springboot)</p>
+        </li></ol>
+    </div>
+    <div class="col-md-12">
+        <h2 class="text-body-emphasis">기술 스택 및 자격증</h2>
+        <ul class="list-unstyled ps-0" id="skill"><li>JAVA<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 65%">65%</div>
+        </div></li><li>SQL<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 60%">60%</div>
+        </div></li><li>HTML<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 75%">75%</div>
+        </div></li><li>CSS<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 80%">80%</div>
+        </div></li><li>JAVASCRIPT<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 60%">60%</div>
+        </div></li><li>REACT<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 75%">75%</div>
+        </div></li><li>SPRINGBOOT<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 65%">65%</div>
+        </div></li><li>MYBATIS<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 70%">70%</div>
+        </div></li><li>Docker<div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" style="width: 40%">40%</div>
+        </div></li></ul>
     </div>
 </div>
